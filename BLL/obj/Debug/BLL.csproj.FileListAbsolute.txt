@@ -1,0 +1,7 @@
+c:\users\deyvison\documents\visual studio 2017\Projects\PDF_to_TXT\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+c:\users\deyvison\documents\visual studio 2017\Projects\PDF_to_TXT\BLL\bin\Debug\BLL.dll
+c:\users\deyvison\documents\visual studio 2017\Projects\PDF_to_TXT\BLL\bin\Debug\BLL.pdb
+c:\users\deyvison\documents\visual studio 2017\Projects\PDF_to_TXT\BLL\bin\Debug\itextsharp.dll
+c:\users\deyvison\documents\visual studio 2017\Projects\PDF_to_TXT\BLL\bin\Debug\itextsharp.xml
+c:\users\deyvison\documents\visual studio 2017\Projects\PDF_to_TXT\BLL\obj\Debug\BLL.dll
+c:\users\deyvison\documents\visual studio 2017\Projects\PDF_to_TXT\BLL\obj\Debug\BLL.pdb

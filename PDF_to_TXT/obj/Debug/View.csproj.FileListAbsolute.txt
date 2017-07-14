@@ -1,0 +1,13 @@
+c:\users\deyvison\documents\visual studio 2017\Projects\PDF_to_TXT\PDF_to_TXT\bin\Debug\PDF_to_TXT.exe.config
+c:\users\deyvison\documents\visual studio 2017\Projects\PDF_to_TXT\PDF_to_TXT\bin\Debug\PDF_to_TXT.exe
+c:\users\deyvison\documents\visual studio 2017\Projects\PDF_to_TXT\PDF_to_TXT\bin\Debug\PDF_to_TXT.pdb
+c:\users\deyvison\documents\visual studio 2017\Projects\PDF_to_TXT\PDF_to_TXT\bin\Debug\BLL.dll
+c:\users\deyvison\documents\visual studio 2017\Projects\PDF_to_TXT\PDF_to_TXT\bin\Debug\itextsharp.dll
+c:\users\deyvison\documents\visual studio 2017\Projects\PDF_to_TXT\PDF_to_TXT\bin\Debug\BLL.pdb
+c:\users\deyvison\documents\visual studio 2017\Projects\PDF_to_TXT\PDF_to_TXT\bin\Debug\itextsharp.xml
+c:\users\deyvison\documents\visual studio 2017\Projects\PDF_to_TXT\PDF_to_TXT\obj\Debug\View.csprojResolveAssemblyReference.cache
+c:\users\deyvison\documents\visual studio 2017\Projects\PDF_to_TXT\PDF_to_TXT\obj\Debug\PDF_to_TXT.Principal.resources
+c:\users\deyvison\documents\visual studio 2017\Projects\PDF_to_TXT\PDF_to_TXT\obj\Debug\PDF_to_TXT.Properties.Resources.resources
+c:\users\deyvison\documents\visual studio 2017\Projects\PDF_to_TXT\PDF_to_TXT\obj\Debug\View.csproj.GenerateResource.Cache
+c:\users\deyvison\documents\visual studio 2017\Projects\PDF_to_TXT\PDF_to_TXT\obj\Debug\PDF_to_TXT.exe
+c:\users\deyvison\documents\visual studio 2017\Projects\PDF_to_TXT\PDF_to_TXT\obj\Debug\PDF_to_TXT.pdb
